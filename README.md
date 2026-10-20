@@ -1,0 +1,8 @@
+Projects-Consolidated:
+The projects mentioned as links in the [datascienceio.github.io](datascienceio.github.io) page:
+
+![ux_0](app-ux-.png)
+![ux_1](app-ux-desgn-.png)
+![ui_0](eclatant-ui-desgn.png)
+![drawings](drawings.png)
+
